@@ -1,2 +1,2 @@
 # conceptionindia_wordpress
-Html format but need server to see best version
+Wordpress theme created for conception India 
